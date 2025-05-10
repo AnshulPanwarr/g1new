@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">G1 Sports</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or">OR</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="sports">Sports</string>
+    <string name="discover">Discover</string>
+    <string name="tournaments">Tournaments</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+</resources>
