@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="eu.tutorials.g1">
 
-    <!-- Internet permissions -->
+    
     <uses-feature
         android:name="android.hardware.camera"
         android:required="false" />
@@ -11,19 +11,19 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     
-    <!-- Location permissions -->
+   
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     
-    <!-- Storage permissions -->
+    
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" 
         android:maxSdkVersion="32" />
     <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
     
-    <!-- Camera permission -->
+    
     <uses-permission android:name="android.permission.CAMERA" />
     
-    <!-- Payment permissions -->
+    
     <uses-permission android:name="android.permission.BILLING" />
 
     <application
@@ -38,10 +38,10 @@
         android:networkSecurityConfig="@xml/network_security_config"
         tools:targetApi="31">
         
-        <!-- Google Maps API Key -->
+       
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyC4Zg0i6SaHaCh-DYKrMp7PI135nESkNiE" />
+            android:value="" />
             
         <activity
             android:name=".MainActivity"
