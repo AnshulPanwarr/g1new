@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "136309243778",
-    "project_id": "g1game-3093d",
-    "storage_bucket": "g1game-3093d.firebasestorage.app"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:136309243778:android:e894da0e73ade80277199b",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "eu.tutorials.g1"
+          "package_name": ""
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDoaOLC5ZeCsj8hcv0LexKhxlvQOZ-urfA"
+          "current_key": ""
         }
       ],
       "services": {
