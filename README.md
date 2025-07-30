@@ -110,7 +110,6 @@ We welcome contributions to make **GameOn** even better!
 2. **Clone** your forked repository:
    ```bash
    git clone https://github.com/your-username/GameOn.git
-````
 
 3. Create a **new branch** for your feature or fix:
 
