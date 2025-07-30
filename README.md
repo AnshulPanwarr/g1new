@@ -141,5 +141,3 @@ We welcome contributions to make **GameOn** even better!
 
 💡 Have feedback, questions, or collaboration ideas?
 Reach out at **[ap499466@gmail.com](mailto:ap499466@gmail.com)**
-
-```
